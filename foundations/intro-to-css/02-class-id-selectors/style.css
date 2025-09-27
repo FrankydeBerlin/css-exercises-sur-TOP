@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+
+p{background-color: #f5bbbb;
+font-family: verdana, DejaVu, sans-serif;}
+#big-blue{color: blue; font-size: 36px;}
+
+.twin{font-size: 24px;}
+
+.Green-house{background-color: rgb(97, 207, 97);}
